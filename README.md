@@ -1,11 +1,17 @@
 # Chef's Menu Manager - Final Portfolio of Evidence (PoE)
 
-##  Project Overview
+## Project Overview
 **Chef's Menu Manager** is a cross-platform mobile application developed using **React Native** and **Expo**. Designed specifically for local restaurant owners and kitchen staff, this application transitions traditional paper-based menu keeping into an efficient, digital, and real-time management system. This repository represents the final completed submission adhering strictly to the module requirements and academic rubrics.
 
 ---
 
-##  Key Implemented Features
+##  Live App Demo Link
+- **Expo Snack Link:** https://snack.expo.dev/@etho1/chef-menu-manager?platform=web
+   
+
+---
+
+## Key Implemented Features
 
 1. **Complete Menu Management (CRUD Operations):**
    - **Create:** Validated input forms allowing the chef to add new dishes with a Name, Description, Course category, and Price.
@@ -25,13 +31,13 @@
 
 ---
 
-##  Change Log & Refactoring (Enhancements Since Part 2)
+## Change Log & Refactoring (Enhancements Since Part 2)
 - **Architecture Upgrade:** Successfully transitioned and structured the codebase using clean functional components and React `useState` hooks.
 - **Code Optimization:** Eliminated redundant code logic, structured modular styles, and adopted consistent camelCase naming conventions.
 - **UI/UX Polishing:** Improved visual hierarchy, button feedback responses, and error-handling alert prompts for invalid inputs.
 
 ---
 
-##  Academic References
+## Academic References
 - Expo. (2026). *Expo Documentation*. Available at: https://docs.expo.dev/ [Accessed: 30 September 2026].
 - React Native. (2026). *React Native documentation*. Available at: https://reactnative.dev/ [Accessed: 30 September 2026].
